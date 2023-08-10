@@ -1,7 +1,6 @@
 # CODSOFT
-CodSoft
 Welcome to my CODSOFT internship repository. Checkout some awesome tasks/projects.<br>
-<b>My Internship Projects</b>
+<b>My Internship Projects</b><br>
 <b>Level One</b><br>
 Task 1: Creating a personal portfolio using CSS and HTML is a popular beginner web development project.<br>
 Header Section: Add your name or a logo at the top. Optionally, include a brief introduction or tagline.<br>
