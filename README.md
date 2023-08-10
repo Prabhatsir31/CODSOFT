@@ -1,16 +1,16 @@
 # CODSOFT
 CodSoft
-Welcome to my CODSOFT internship repository. Checkout some awesome tasks/projects.
-My Internship Projects
-Level One
-Task 1: Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
-Header Section: Add your name or a logo at the top. Optionally, include a brief introduction or tagline.
-About Section: Insert an image of yourself. Write a short bio highlighting your skills and experience.
-Skills Section: List your key skills or areas of expertise.
-Projects Section: Showcase samples of your work or projects. Include project titles, descriptions, and images.
-Resume Section: Provide a link to download your resume in PDF format.
-Contact Section: Include your contact information, such as email address and phonenumber.
-Footer: Add a copyright notice and any additional links or information.
+Welcome to my CODSOFT internship repository. Checkout some awesome tasks/projects.<br>
+<b>My Internship Projects</b>
+<b>Level One</b><br>
+Task 1: Creating a personal portfolio using CSS and HTML is a popular beginner web development project.<br>
+Header Section: Add your name or a logo at the top. Optionally, include a brief introduction or tagline.<br>
+About Section: Insert an image of yourself. Write a short bio highlighting your skills and experience.<br>
+Skills Section: List your key skills or areas of expertise.<br>
+Projects Section: Showcase samples of your work or projects. Include project titles, descriptions, and images.<br>
+Resume Section: Provide a link to download your resume in PDF format.<br>
+Contact Section: Include your contact information, such as email address and phonenumber.<br>
+Footer: Add a copyright notice and any additional links or information.<br>
 
 Task 2: MBuild a simple to-do list application that allows users to add,edit, and delete tasks. You can use HTML, CSS, and JavaScriptfor the front-end and store the tasks in local storage or a simplebackend server using technologies like Node.js or Flask
 
