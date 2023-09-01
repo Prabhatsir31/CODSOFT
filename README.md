@@ -14,3 +14,6 @@ Footer: Add a copyright notice and any additional links or information.<br>
 Task 2: Build a simple to-do list application that allows users to add,edit, and delete tasks. You can use HTML, CSS, and JavaScriptfor the front-end and store the tasks in local storage or a simplebackend server using technologies like Node.js or Flask
 
 Task 3: To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement aninteractive interface with buttons for addition, subtraction, multiplication, and divisionoperations. The calculator should have a display screen to show user input and results. UtilizeCSS grid system for button alignments. Use event listeners, if-else statements, operators, andloops to handle user input and perform calculations. This project requires some skill but can bedone with basic knowledge of these technologies.
+
+<b>Level Two</b>
+Task 1: With basic knowledge of HTML and CSS, you can create a webpage dedicated to someone youadmire. Write about their admirable qualities, add images, and design a visually appealinglayout. Experiment with font styles, use paragraphs effectively, and play with backgroundcolors. This project allows you to express your admiration in a simple and personalized way.<br>
